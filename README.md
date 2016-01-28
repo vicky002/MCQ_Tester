@@ -19,8 +19,8 @@ Will be updated soon!
 
 
 
+# Licence
 
-## License
+[MIT](https://github.com/vicky002/MCQ_Tester/blob/master/LICENSE) Licence (c) [Vikesh Tiwari](https://github.com/vicky002)
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
+Build with :heart: in python
